@@ -1,22 +1,18 @@
-# sanber-mobileAutomation
+# Soal2TugasAkhir
 
-How to Start
-
-Install 
-1. Node JS
-2. Java SDK & JAVA_HOME
-3. Android Studio & ANDROID_HOME
-4. Appium Desktop
-5. Install package.json with command
-
-```
-  npm install
+## How to run
+```bash
+npm install
 ```
 
-How to run
-1. Connect to your device android or IOS
-2. Setup desired capabilities in file wdio.conf.js
-3. Run test
+Run test
+```bash
+npm run test
 ```
-  npm run wdio
-```
+
+## Hasil Run
+
+![image](https://user-images.githubusercontent.com/85092513/221384031-7b4fc68b-44e3-428e-bca7-7b76c7e09259.png)
+
+
+![CucumberAutomation](https://user-images.githubusercontent.com/85092513/221384007-cee0f0d6-5385-42a8-9077-8c53cb1d4378.gif)

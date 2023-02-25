@@ -10,7 +10,7 @@
     "keywords": [
         "mobile"
     ],
-    "author": "alvin",
+    "author": "Ghala",
     "license": "ISC",
     "devDependencies": {
         "@babel/core": "^7.20.5",
@@ -29,4 +29,4 @@
         "g": "^2.0.1",
         "path": "^0.12.7"
     }
-  }
+}
