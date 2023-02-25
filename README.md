@@ -1,4 +1,11 @@
 # Soal2TugasAkhir
+By Ghala Sudana
+
+## Link Test Scenario 
+
+```bash
+https://docs.google.com/spreadsheets/d/1LTSbTa3VFsXf297PsCxVPLKllHTypqficSaKU1eVTN0/edit
+```
 
 ## How to run
 ```bash
