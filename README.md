@@ -23,3 +23,8 @@ npm run test
 
 
 ![CucumberAutomation](https://user-images.githubusercontent.com/85092513/221384007-cee0f0d6-5385-42a8-9077-8c53cb1d4378.gif)
+
+Link Video
+```bash
+https://github.com/Ghala29/Soal2TugasAkhir/tree/main/video
+```
