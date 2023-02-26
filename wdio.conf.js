@@ -28,7 +28,7 @@ export const config = {
     // will be called from there.
     //
     specs: [
-        './test/specs/mobile.automation.js'
+        './test/specs/mobile.automationnotdarkmode.js'
     ],
     // Patterns to exclude.
     exclude: [
